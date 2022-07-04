@@ -1,0 +1,3 @@
+# Project exclude paths
+/pam_server/target/
+/pam_service/target/
